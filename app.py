@@ -140,18 +140,18 @@ with st.sidebar:
             st.session_state.current_route_index = 0
 
         # Display navigation buttons
-        prev_disabled = st.session_state.current_route_index == 0
-        next_disabled = st.session_state.current_route_index == len(route_options) - 1
+        # prev_disabled = st.session_state.current_route_index == 1
+        # next_disabled = st.session_state.current_route_index == len(route_options) - 2
 
-        col1, col2 = st.columns([1, 1])
-        with col1:
-            if st.button("Previous", disabled=prev_disabled, use_container_width=True):
-                if st.session_state.current_route_index > 0:
-                    st.session_state.current_route_index -= 1
-        with col2:
-            if st.button("Next", disabled=next_disabled, use_container_width=True):
-                if st.session_state.current_route_index < len(route_options) - 1:
-                    st.session_state.current_route_index += 1
+        # col2, col2 = st.columns([1, 1])
+        # with col2:
+        #     if st.button("Previous", disabled=prev_disabled, use_container_width=True):
+        #         if st.session_state.current_route_index > 1:
+        #             st.session_state.current_route_index -= 2
+        # with col3:
+        #     if st.button("Next", disabled=next_disabled, use_container_width=True):
+        #         if st.session_state.current_route_index < len(route_options) - 2:
+        #             st.session_state.current_route_index += 1
 
         # Update selected route based on button navigation
         selected_route = route_options[st.session_state.current_route_index]
@@ -204,5 +204,19 @@ image_path = os.path.join(image_folder, image_filename)
 
 if os.path.exists(image_path):
     st.image(image_path, caption=f"Page {current_route['page_number']}")
+
+    # Display navigation buttons below the image
+    prev_disabled = st.session_state.current_route_index == 0
+    next_disabled = st.session_state.current_route_index == len(route_options) - 1
+
+    col1, col2 = st.columns([1, 1])
+    with col1:
+        if st.button("Previous", disabled=prev_disabled):
+            if st.session_state.current_route_index > 0:
+                st.session_state.current_route_index -= 1
+    with col2:
+        if st.button("Next", disabled=next_disabled):
+            if st.session_state.current_route_index < len(route_options) - 1:
+                st.session_state.current_route_index += 1
 else:
     st.text("Image not available")
