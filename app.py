@@ -209,13 +209,14 @@ if os.path.exists(image_path):
     prev_disabled = st.session_state.current_route_index == 0
     next_disabled = st.session_state.current_route_index == len(route_options) - 1
 
-    col1, col2 = st.columns([1, 1])
+    col1, col2, rempty = st.columns([1, 1, 3])
+    rempty.empty()
     with col1:
-        if st.button("Previous", disabled=prev_disabled):
+        if st.button("Previous", disabled=prev_disabled, use_container_width=True):
             if st.session_state.current_route_index > 0:
                 st.session_state.current_route_index -= 1
     with col2:
-        if st.button("Next", disabled=next_disabled):
+        if st.button("Next", disabled=next_disabled, use_container_width=True):
             if st.session_state.current_route_index < len(route_options) - 1:
                 st.session_state.current_route_index += 1
 else:
