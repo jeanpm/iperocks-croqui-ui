@@ -1,0 +1,68 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Taxi Lunar",
+            "grade": "V5",
+            "description": "Saida SDS encolhido em buraco, faz transfer\u00e9ncia em pockets e regletes para a esquerda com moves super plasticos finalizando em virada abaulada.",
+            "page_number": 42,
+            "block": "Taxi Lunar",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Poeira C\u00e9smica",
+            "grade": "V4",
+            "description": "Saindo em dois buracos perfeitos, toca para cima em pockets e faz virada t\u00e9cnica em abaulados.",
+            "page_number": 42,
+            "block": "Taxi Lunar",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Onibus Espacial",
+            "grade": "V8",
+            "description": "Problema - Mesma saida do Taxi Lunar (1), por\u00e9m vai reto em move exigente para dominio de reglete em forma de bolacha. Virada \u00e9 igual ao do Taxi Lunar (1).",
+            "page_number": 42,
+            "block": "Taxi Lunar",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "Espaco e Tempo",
+            "grade": "V8",
+            "description": "Sai la de baixo do bloco, com mao esquerda em boa agarra no teto e mao direita em fenda na base do bloco. Faz move de core at\u00e9 encontrar bom reglete e se joga para fora do teto.",
+            "page_number": 42,
+            "block": "Taxi Lunar",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Lundtico",
+            "grade": "V4",
+            "description": "Saida SDS em regletes, segue pelo batente at\u00e9 o Taxi Lunar (1) e vira no Espago e Tempo (4).",
+            "page_number": 42,
+            "block": "Taxi Lunar",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 6,
+            "name": "Contatos Imediatos",
+            "grade": "V4",
+            "description": "Mesma saida do Taxi Lunar (1), por\u00e9m ao chegar nos buracos toca para a esquerda em fenda obvia.",
+            "page_number": 42,
+            "block": "Taxi Lunar",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 7,
+            "name": "Espago Imediafo",
+            "grade": "V8",
+            "description": "Faz o Espago e Tempo (4) e vira no Contatos Imediatos (6).",
+            "page_number": 42,
+            "block": "Taxi Lunar",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

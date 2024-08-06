@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Bufalo",
+    "routes": [
+        {
+            "id_number": 4,
+            "name": "Tio Patinhas",
+            "grade": "V4",
+            "description": "Saida pulando em beigo na borda do bloco, escala. Este projeto sai em agarra invertida e toca para a esquerda. Saindo agachado em bons regletes, toca para a esquerda levemente para a esquerda e faz virada t\u00e9cnica e dando bote na borda e virando igual ao Tio Patinhas (4), usando pinga/ tridedo e vira com move longe para a direita. Exigente.",
+            "page_number": 131,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 5,
+            "name": "Soldado An\u00e9nimo",
+            "grade": "N/A",
+            "description": "Descri\u00e7\u00e3o n\u00e3o dispon\u00edvel.",
+            "page_number": 131,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 6,
+            "name": "Escudeiro Fiel",
+            "grade": "V4",
+            "description": "Descri\u00e7\u00e3o n\u00e3o dispon\u00edvel.",
+            "page_number": 131,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        }
+    ]
+}

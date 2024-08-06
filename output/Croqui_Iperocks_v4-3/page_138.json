@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Bufalo\n\nIPEROCKS\n\nSaida em p\u00e9, com as duas maos em pinga invertida. Saida em p\u00e9 em agarra invertida. Bate para a direita em reglete de lado e batente longe, virando reto. Cuidado com a pedra de tras. na virada do mesmo, continua para a esquerda virando no mao esquerda no paozinho. Faz 1 movimento para a extremo do bloco.",
+    "routes": [
+        {
+            "id_number": 7,
+            "name": "Canguru",
+            "grade": "V11",
+            "description": "Saida em p\u00e9, com as duas maos em pinga invertida.",
+            "page_number": 138,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 8,
+            "name": "Toca do Urso",
+            "grade": "V7",
+            "description": "Saida em p\u00e9 em agarra invertida. Bate para a direita em reglete de lado e batente longe, virando reto.",
+            "page_number": 138,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 9,
+            "name": "Beija Flor",
+            "grade": "V4",
+            "description": "Mesma saida do Pantera Negra (5), por\u00e9m, antes de chegar na virada do mesmo, continua para a esquerda virando no mao esquerda no paozinho. Faz 1 movimento para a extremo do bloco.",
+            "page_number": 138,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        }
+    ]
+}

@@ -1,0 +1,50 @@
+{
+    "page_message": "Bloco Surf - IPE ROCKS - BOULDERING",
+    "routes": [
+        {
+            "id_number": 9,
+            "name": "Marola",
+            "grade": "V1",
+            "description": "Inicio em dois regletdes profundos na Mesma saida do Marola (8), mas escalando Comega com as maos juntas em bico Linda e pequena, por\u00e9m com movimentagao super horizontal, fazendo movimentos pela parte baixa para a esquerda e virando no abaulado, dominando pelo positivo.",
+            "page_number": 52,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 10,
+            "name": "Melhor Esquerda",
+            "grade": "V3",
+            "description": "especifica, que surpreende quando escalada, encolhidos para dominar bicao bom.",
+            "page_number": 52,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 11,
+            "name": "Pororoca",
+            "grade": "V1",
+            "description": "comegando com a mao direita em reglete de lado e Be mao esquerda em regletinho abaulado na horizontal.",
+            "page_number": 52,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 12,
+            "name": "Arrebentagdo",
+            "grade": "V3",
+            "description": "Croqui Iperocks V4.2",
+            "page_number": 52,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 7,
+            "name": "W.C.T.",
+            "grade": "V7",
+            "description": "comegando com a mao direita em reglete de lado e Be mao esquerda em regletinho abaulado na horizontal.",
+            "page_number": 52,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

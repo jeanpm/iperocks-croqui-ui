@@ -1,0 +1,41 @@
+{
+    "page_message": "SETOR BUFALO\nIPEROCKS\nGOULDERING\nBloco Redemption\nIPEROCKS",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Three Little Birds",
+            "grade": "V2",
+            "description": "",
+            "page_number": 145,
+            "block": "Redemption",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 2,
+            "name": "Rasta Man",
+            "grade": "V6/7",
+            "description": "",
+            "page_number": 145,
+            "block": "Redemption",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 3,
+            "name": "Atabaqui",
+            "grade": "V3",
+            "description": "",
+            "page_number": 145,
+            "block": "Redemption",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 4,
+            "name": "Croqui Iperocks",
+            "grade": "V4.2",
+            "description": "",
+            "page_number": 145,
+            "block": "Redemption",
+            "sector": "Setor Bufalo"
+        }
+    ]
+}

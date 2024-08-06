@@ -1,0 +1,41 @@
+{
+    "page_message": "Bloco Coffee Shop",
+    "routes": [
+        {
+            "id_number": 6,
+            "name": "Marroquino",
+            "grade": "V5",
+            "description": "Inicio SDS em duas agarras boas e evidentes num buraco. Segue reto no bloco, em lances esticados com uma virada boa.",
+            "page_number": 57,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 7,
+            "name": "Amn\u00e9sia Haze",
+            "grade": "V8/9",
+            "description": "Saida SDS em um batente pr\u00e9ximo a um buraco. Segue em agarras pequenas e vire reto no bloco.",
+            "page_number": 57,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": "e@",
+            "name": "Purple Dyno",
+            "grade": "N/A",
+            "description": "Faz tudo igual o Purple Haze (1), mas ao chegar na grande agarra central, esse projeto sugere o bote at\u00e9 a borda.",
+            "page_number": 57,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": "e",
+            "name": "Projeto @&",
+            "grade": "N/A",
+            "description": "Saida junto do Amn\u00e9sia Haze e segue todo pela esquerda em um batente ruim at\u00e9 fazer a virada exposta.",
+            "page_number": 57,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

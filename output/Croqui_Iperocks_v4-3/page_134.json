@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Bufalo",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Cabrito",
+            "grade": "V3",
+            "description": "Saindo com a m\u00e3o direita baixa e a esquerda num reglete, segue para a esquerda virando na borda.",
+            "page_number": 134,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 2,
+            "name": "Cabrito Mont\u00e9s",
+            "grade": "V5",
+            "description": "Sa\u00edda deitada com m\u00e3o direita em tijolo e m\u00e3o esquerda em Classica. Sa\u00edda abrangendo o bloco, num buraco de m\u00e3o reglete na aresta com calcanhar no cristal. Toca reto direita e uma grande agarra de esquerda. Escala o teto at\u00e9 terminando no Cabrito (1), a ponta do Bloco.",
+            "page_number": 134,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 3,
+            "name": "Bufalo",
+            "grade": "V6",
+            "description": "Sa\u00edda deitada com m\u00e3o direita em tijolo e m\u00e3o esquerda em Classica. Sa\u00edda abrangendo o bloco, num buraco de m\u00e3o reglete na aresta com calcanhar no cristal. Toca reto direita e uma grande agarra de esquerda. Escala o teto at\u00e9 terminando no Cabrito (1), a ponta do Bloco.",
+            "page_number": 134,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        }
+    ]
+}

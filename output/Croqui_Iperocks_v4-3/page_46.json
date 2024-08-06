@@ -1,0 +1,41 @@
+{
+    "page_message": "Faz a saida do Microfone (6) e escala pelos abaulados at\u00e9 SDS com mAo direita em bidedo e mao esquerda mais Comega em p\u00e9 com as maos juntas no agarrao, escala reto finalizar no Balconan (4). baixa em pocket abaulado e finaliza reto. fazendo uma virada linda e t\u00e9cnica. Croqui Iperocks V4.2 perfeitos at\u00e9 a saida do Beat Box (10).",
+    "routes": [
+        {
+            "id_number": 8,
+            "name": "Microfone do Conan",
+            "grade": "V7",
+            "description": "Faz a saida do Microfone (6) e escala pelos abaulados at\u00e9 SDS com mAo direita em bidedo e mao esquerda mais Comega em p\u00e9 com as maos juntas no agarrao, escala reto finalizar no Balconan (4). baixa em pocket abaulado e finaliza reto. fazendo uma virada linda e t\u00e9cnica.",
+            "page_number": 46,
+            "block": "Free Style",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 9,
+            "name": "Improviso",
+            "grade": "V1",
+            "description": "",
+            "page_number": 46,
+            "block": "Free Style",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 10,
+            "name": "Beat Box",
+            "grade": "V3",
+            "description": "",
+            "page_number": 46,
+            "block": "Free Style",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 10,
+            "name": "Batalha da Aldeia",
+            "grade": "N/A",
+            "description": "",
+            "page_number": 46,
+            "block": "Free Style",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

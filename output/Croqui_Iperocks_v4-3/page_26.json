@@ -1,0 +1,68 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Enigma da Esfinge",
+            "grade": "V6",
+            "description": "Sai no Enigma (7) e vira no Camel (3).",
+            "page_number": 26,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 10,
+            "name": "Dunas",
+            "grade": "V8",
+            "description": "Sai no Dente por Dente (5), ap\u00f3s primeiros moves, toca para a esq. fazendo a travessia pelo bloco at\u00e9 virar no Grado de Areia (1).",
+            "page_number": 26,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 12,
+            "name": "Boca sem Dente",
+            "grade": "V6",
+            "description": "Mesma sa\u00edda do Boca por Boca (8), toca para esquerda e termina no Dente por Dente (5).",
+            "page_number": 26,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 13,
+            "name": "Papo Torto",
+            "grade": "V7",
+            "description": "Sai no Boca por Boca (8), toca para esq. e termina no Papo Reto (11).",
+            "page_number": 26,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 14,
+            "name": "Z\u00e9 Gotinha",
+            "grade": "V7",
+            "description": "Saida no meio do bloco em dois micro regletes. Faz move duro at\u00e9 pegar regletes mais altos. Termina como o Dunas (10).",
+            "page_number": 26,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 15,
+            "name": "Areias do Tempo",
+            "grade": "V9/10",
+            "description": "Mesma sa\u00edda do Enigma (7) e vira no Olho por Olho (6).",
+            "page_number": 26,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 16,
+            "name": "Grado no Olho",
+            "grade": "V8",
+            "description": "Mesma sa\u00edda do Grao de Areia (1) e vira no Olho por Olho (6).",
+            "page_number": 26,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

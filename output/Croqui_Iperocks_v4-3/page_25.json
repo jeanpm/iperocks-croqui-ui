@@ -1,0 +1,59 @@
+{
+    "page_message": "SETOR SEU LUIZ\nBloco Camel",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Gr\u00e9o de Areia",
+            "grade": "V1",
+            "description": "Saindo em agarrao de oposi\u00a2ao, segue pelo abaulado e faz virada 't\u00e9cnica' abragando o lombo do camelo. SDS sai quase deitado com mao em reglete potente, faz muv longo para agarrao de oposi\u00a2ao. (Morpho)",
+            "page_number": 25,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Camel",
+            "grade": "V3",
+            "description": "Mesma saida do Grao de Areia (1), por\u00e9m ao dominar o abaulado, segue para a esquerda abracando 0 rosto do camelo. SDS mesma saida do Grado de Areia sds (2).",
+            "page_number": 25,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Dente por Dente",
+            "grade": "V5",
+            "description": "Saindo SDS em regletes em direcao a aresta do bloco. Movimentagao em agarras boas at\u00e9 enfrentar regletes potentes. Virada e muv\u2019s de responsa.",
+            "page_number": 25,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 6,
+            "name": "Olho por Olho",
+            "grade": "V4",
+            "description": "Mesma saida do Dente por Dente (5), por\u00e9m ao dominar a aresta, a toca para o buraco perfeito e continua para outro buraco.",
+            "page_number": 25,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 7,
+            "name": "Enigma",
+            "grade": "V5",
+            "description": "Saida de mao esquerda em abaulado na outra face e mao direita em reglete. Termina no Grado de Areia (1).",
+            "page_number": 25,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 8,
+            "name": "Boca por Boca",
+            "grade": "V1",
+            "description": "Saindo Stand no primeiro buraco, basta tocar para o segundo buraco que \u00e9 utilizando no Olho por Olho (6) e fazer a virada.",
+            "page_number": 25,
+            "block": "Camel",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

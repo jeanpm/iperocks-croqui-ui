@@ -1,0 +1,50 @@
+{
+    "page_message": "SETOR VALE DOS LIRIOS\nIPEROCKS\nDOULDERING",
+    "routes": [
+        {
+            "id_number": 6,
+            "name": "Pin\u00e9quio",
+            "grade": "V4",
+            "description": "Comega agachado com as maos juntas em agarra boa na horizontal.",
+            "page_number": 93,
+            "block": "3 Porquinhos",
+            "sector": "Setor Vale dos Lirios"
+        },
+        {
+            "id_number": 7,
+            "name": "Cha de Lirio",
+            "grade": "V5",
+            "description": "Linha que sai em p\u00e9 abracgando a geladeira, com mao direita em pinga na aresta e mao esquerda em reglete em forma de bolachinha. Escala a geladeira e finaliza reto. SDS - comega com mao direita em pequena pinga e mao esquerda em reglete de lado levemente invertido.",
+            "page_number": 93,
+            "block": "3 Porquinhos",
+            "sector": "Setor Vale dos Lirios"
+        },
+        {
+            "id_number": 9,
+            "name": "Bela Adormecida",
+            "grade": "V6",
+            "description": "Face Esquerda ao Cha de Lirio (7). Mao esquerda em micro reglete e direita bem prd\u00e9xima de lado em gaston, fazendo movimentos iniciais bem duros e finalizando a linha em virada mais facil para esquerda.",
+            "page_number": 93,
+            "block": "3 Porquinhos",
+            "sector": "Setor Vale dos Lirios"
+        },
+        {
+            "id_number": 10,
+            "name": "Gepetto",
+            "grade": "V5",
+            "description": "Comega agachado com as maos juntas em agarra boa na horizontal do Pindquio (6) e faz a travessia para a esquerda.",
+            "page_number": 93,
+            "block": "3 Porquinhos",
+            "sector": "Setor Vale dos Lirios"
+        },
+        {
+            "id_number": 11,
+            "name": "Dumbo",
+            "grade": "V5",
+            "description": "Saida SDS, com mao esquerda em aresta escorrida, mao direta em reglete e calcanhar direito bem alto. A Toca reto e vira como o Gepetto (10).",
+            "page_number": 93,
+            "block": "3 Porquinhos",
+            "sector": "Setor Vale dos Lirios"
+        }
+    ]
+}

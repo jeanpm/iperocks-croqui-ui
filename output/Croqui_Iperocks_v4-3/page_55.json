@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Equin\u00e9cio",
+    "routes": [
+        {
+            "id_number": 4,
+            "name": "Todo Santo Ajuda",
+            "grade": "V5",
+            "description": "Esta linha esta localizado no bloco entalado. Inicia no bico a direita do bloco e escala pela borda virando no extremo outro lado.",
+            "page_number": 55,
+            "block": "Equin\u00e9cio",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Equin\u00e9cio",
+            "grade": "V5",
+            "description": "Mesmo inicio do Todo Santo Ajuda (4) e segue para a direita. Linha bastante t\u00e9cnica com uma virada em abaulados.",
+            "page_number": 55,
+            "block": "Equin\u00e9cio",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 6,
+            "name": "Crepusculo",
+            "grade": "V3",
+            "description": "Comega dentro da caverna em abaulados e segue para a esquerda virando ap\u00e9s o bloco entalado, em agarras obvias.",
+            "page_number": 55,
+            "block": "Equin\u00e9cio",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

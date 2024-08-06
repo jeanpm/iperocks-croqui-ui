@@ -1,0 +1,41 @@
+{
+    "page_message": "Bloco Miragem",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Delirio de Vodka",
+            "grade": "V12",
+            "description": "Esta linha faz a mesma saida do Mil e Uma Noites (1) e Linha STAND que comega em agarras boas no meio do teto.",
+            "page_number": 32,
+            "block": "Miragem",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Delirio",
+            "grade": "V7",
+            "description": "Linha comega no Delirio Undergorund (5) e depois continua escalando pelo teto at\u00e9 chegar nas agarras de e finaliza reto escalando por regletes potentes.",
+            "page_number": 32,
+            "block": "Miragem",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Underground",
+            "grade": "V10",
+            "description": "Saida do Delirio (4), finalizando como o mesmo. Saida SDS no final da do negativo, usando agarras tridedos invertidos e escala pela crista, finalizando no Delirio (4).",
+            "page_number": 32,
+            "block": "Miragem",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "Miragem Underground",
+            "grade": "V10",
+            "description": "Alguns movimentos, voc\u00e9 entra e finaliza no Miragem (6).",
+            "page_number": 32,
+            "block": "Miragem",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

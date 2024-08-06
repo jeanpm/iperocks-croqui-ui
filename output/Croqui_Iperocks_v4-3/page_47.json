@@ -1,0 +1,50 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Camisa de V\u00e9nus",
+            "grade": "V4",
+            "description": "Saida sentado, este boulder toca por pockets e vira reto em agarrao na borda.",
+            "page_number": 47,
+            "block": "Camisa de V\u00e9nus",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Cabra Cega",
+            "grade": "V1",
+            "description": "Saida de ponta cabega, com toe acima das maos, que estao em regletes bons. Virada reta.",
+            "page_number": 47,
+            "block": "Camisa de V\u00e9nus",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Bacia",
+            "grade": "V5",
+            "description": "Saindo em pequenos regletes, a linha toca para a borda onde o escalador \u00e9 desafiado por agarras que dao nome ao boulder.",
+            "page_number": 47,
+            "block": "Camisa de V\u00e9nus",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "A Puberdade",
+            "grade": "V3",
+            "description": "Mesma saida do Camisa de V\u00e9nus (1), virando no Cabra Cega (2).",
+            "page_number": 47,
+            "block": "Camisa de V\u00e9nus",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Lesma",
+            "grade": "V4",
+            "description": "Boulder localizado no bloco da direita do Camisa de V\u00e9nus. Saida deitada nas agarras mais baixas possiveis com p\u00e9 na fenda. Se arrasta para subir 0 bloco.",
+            "page_number": 47,
+            "block": "Camisa de V\u00e9nus",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

@@ -1,0 +1,59 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Cagadores de Emoc\u00e9es",
+            "grade": "V3",
+            "description": "Linha super criativa, comega em p\u00e9 dentro do tubo e vem escalando uma travessia para direita, pegando toda a onda do bloco, escalando por baixo, a partir do meio do bloco e fazendo a mesma virada do Marola (8).",
+            "page_number": 50,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Tubo",
+            "grade": "V3",
+            "description": "Inicio no Cagadores de Emog\u00e9es (1) e vira no Caldo (5).",
+            "page_number": 50,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "A\u00e9reo",
+            "grade": "V2",
+            "description": "Sai em p\u00e9, com mao esquerda em agarra boa de lado e mao direita na bacia, fazendo movimentos super plasticos. Saindo mais abaixo \u00e9 o A\u00e9reo SDS (4).",
+            "page_number": 50,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "Caldo",
+            "grade": "V2",
+            "description": "SDS em agarra pocket e batente, escalando levemente pela direita em regletes super bons e fazendo uma virada facil.",
+            "page_number": 50,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Haule",
+            "grade": "V7",
+            "description": "Inicio agachado com as mos juntas em agarra de lado. Segue escalando reto.",
+            "page_number": 50,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 6,
+            "name": "W.T.C.",
+            "grade": "V1",
+            "description": "Saida em dois regletes bons, pegando agarrao de invertida e virando reto.",
+            "page_number": 50,
+            "block": "Surf",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

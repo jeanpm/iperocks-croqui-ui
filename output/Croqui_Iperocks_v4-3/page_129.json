@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Bufalo",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Capela",
+            "grade": "V1",
+            "description": "Saindo em p\u00e9 em pingao lateral, basta escalar levemente para a esquerda e fazer a virada pelo buraco.",
+            "page_number": 129,
+            "block": "Bufalo",
+            "sector": "SETOR BUFALO"
+        },
+        {
+            "id_number": 2,
+            "name": "Guarnigao",
+            "grade": "V2",
+            "description": "Saindo em boas agarras, basta virar o teto e escalar por regletes abaulados.",
+            "page_number": 129,
+            "block": "Bufalo",
+            "sector": "SETOR BUFALO"
+        },
+        {
+            "id_number": 3,
+            "name": "Porco Capitalista",
+            "grade": "V8",
+            "description": "Saindo em boas agarras (nao vale usar o Jorge), escalando para a esquerda, essa linha exigente termina como o Tio Patinhas.",
+            "page_number": 129,
+            "block": "Bufalo",
+            "sector": "SETOR BUFALO"
+        }
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Bufalo\n\nSaida igual ao Cabrito Mont\u00e9s e segue pelo teto at\u00e9 o Mesma saida do Bufalo (3), e segue para o lado oposto at\u00e9 Mesma saida do Bufalo (3), subindo reto em direcao a uma grande agarra no final do bloco.",
+    "routes": [
+        {
+            "id_number": 4,
+            "name": "Bufalo Soldier",
+            "grade": "V7",
+            "description": "Saida igual ao Cabrito Mont\u00e9s e segue pelo teto at\u00e9 o Mesma saida do Bufalo (3), e segue para o lado oposto at\u00e9 Mesma saida do Bufalo (3), subindo reto em direcao a uma grande agarra no final do bloco.",
+            "page_number": 136,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 5,
+            "name": "Pantera Negra",
+            "grade": "V4",
+            "description": "Saida igual ao Cabrito Mont\u00e9s e segue pelo teto at\u00e9 o Mesma saida do Bufalo (3), e segue para o lado oposto at\u00e9 Mesma saida do Bufalo (3), subindo reto em direcao a uma grande agarra no final do bloco.",
+            "page_number": 136,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 6,
+            "name": "Coiote",
+            "grade": "V4/5",
+            "description": "Saida igual ao Cabrito Mont\u00e9s e segue pelo teto at\u00e9 o Mesma saida do Bufalo (3), e segue para o lado oposto at\u00e9 Mesma saida do Bufalo (3), subindo reto em direcao a uma grande agarra no final do bloco.",
+            "page_number": 136,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        }
+    ]
+}

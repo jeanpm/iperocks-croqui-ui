@@ -1,0 +1,50 @@
+{
+    "page_message": "Evite escalar este bloco em \u00e9pocas de chuva. Alto risco de quebras de agarra.",
+    "routes": [
+        {
+            "id_number": 27,
+            "name": "Michelangelo",
+            "grade": "V8",
+            "description": "Saindo como o Salvador Dali (32), chegando no buraco \u00e9 s\u00e9 encarar a proa escalando em movimentos de compress\u00e3o.",
+            "page_number": 76,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 28,
+            "name": "Capela Sistina",
+            "grade": "V10",
+            "description": "Saida SDS em reglete/batente no meio do bloco. Finalizando como 0 Michelangelo (27)",
+            "page_number": 76,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 29,
+            "name": "Persist\u00e9ncia da Mem\u00e9ria",
+            "grade": "V9",
+            "description": "Mesma saida do Capela Sistina (28) e entra no Salvador Dali (32).",
+            "page_number": 76,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 30,
+            "name": "Noite Estrelada",
+            "grade": "V10",
+            "description": "Saida no Abapuru (37) e virando no Michelangelo (27)",
+            "page_number": 76,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 31,
+            "name": "Banksy",
+            "grade": "V6",
+            "description": "Saida no Abapuru (37) e vira no Salvador Dali (32)",
+            "page_number": 76,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

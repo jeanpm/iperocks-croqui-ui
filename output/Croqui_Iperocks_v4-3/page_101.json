@@ -1,0 +1,50 @@
+{
+    "page_message": "Apesar de reaberto recentemente, este foi o primeiro setor escalado em Iperocks. Em fev.2017 foi aqui que achamos o primeiro bloco e comecamos a descobrir 0 imenso potencial da regido. Apos alguns problemas de acesso, finalmente em abr.2020 conseguimos a autorizacdo para escalar neste setor novamente. Portanto, pedimos todo o cuidado possivel neste setor. + DE MANEIRA ALGUMA ocesse a Grea de pasto. Z ae + A travessia entre o cativasso e o primeiro bloco deve ser feita pelo corredor de corda que margeia a cerca. I [efo) Wa Vitel ae] 27 * Ndo faca fogo, fogueira ou algo parecido. * Na \u00e9poca de chuvas, ha um pequeno riacho que corre no meio rea do Pasto do setor. Essa agua nao \u00e9 potdvel, por\u00e9m faz parte da natureza local. Evite o assoreamento do pequeno riacho.",
+    "routes": [
+        {
+            "id_number": 22,
+            "name": "Nascente",
+            "grade": "V4",
+            "description": "",
+            "page_number": 101,
+            "block": "Iperocks",
+            "sector": "Setor Nascente"
+        },
+        {
+            "id_number": 23,
+            "name": "Ipers",
+            "grade": "",
+            "description": "",
+            "page_number": 101,
+            "block": "Iperocks",
+            "sector": "Setor Nascente"
+        },
+        {
+            "id_number": 24,
+            "name": "Planetdrio",
+            "grade": "",
+            "description": "",
+            "page_number": 101,
+            "block": "Iperocks",
+            "sector": "Setor Nascente"
+        },
+        {
+            "id_number": 25,
+            "name": "P\u00e9 de Feijao",
+            "grade": "",
+            "description": "",
+            "page_number": 101,
+            "block": "Iperocks",
+            "sector": "Setor Nascente"
+        },
+        {
+            "id_number": 26,
+            "name": "HighBall",
+            "grade": "",
+            "description": "",
+            "page_number": 101,
+            "block": "Iperocks",
+            "sector": "Setor Nascente"
+        }
+    ]
+}

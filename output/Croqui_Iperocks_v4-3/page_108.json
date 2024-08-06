@@ -1,0 +1,41 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Ipero",
+            "grade": "V6",
+            "description": "Mesma saida o Iper6 (1), esta linha vai para a esquerda pela parte de baixo do teto.",
+            "page_number": 108,
+            "block": "Iper\u00e9",
+            "sector": "Setor Nascente"
+        },
+        {
+            "id_number": 6,
+            "name": "Ruinas Paulista",
+            "grade": "V7",
+            "description": "Saida sentado com duas maos em batente. Segue pelo teto pela esquerda, escalando pela borda at\u00e9 dominio pela frente do bloco.",
+            "page_number": 108,
+            "block": "Iper\u00e9",
+            "sector": "Setor Nascente"
+        },
+        {
+            "id_number": 7,
+            "name": "Ruinas",
+            "grade": "V5",
+            "description": "Mesma saida do Ruinas Paulista (6), por\u00e9m ao chegar na borda faz virada por abaulados.",
+            "page_number": 108,
+            "block": "Iper\u00e9",
+            "sector": "Setor Nascente"
+        },
+        {
+            "id_number": 8,
+            "name": "Castelo de Areia",
+            "grade": "N/A",
+            "description": "Mesma saida do Ruinas (7), por\u00e9m essa linha vai para a direita em pequenos regletes e vira como o Ipero (1).",
+            "page_number": 108,
+            "block": "Iper\u00e9",
+            "sector": "Setor Nascente"
+        }
+    ]
+}

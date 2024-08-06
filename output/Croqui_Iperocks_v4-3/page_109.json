@@ -1,0 +1,59 @@
+{
+    "page_message": "Q SETOR NASCENTE\n\nIPEROCKS\n\nDOULDERING",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Planetdrio",
+            "grade": "V3",
+            "description": "Linha mais classica do bloco. Saida em p\u00e9 no mont\u00e9, com as duas maos em batente obvio. Segue para a esquerda e toca reto no final.",
+            "page_number": 109,
+            "block": "Planetdrio",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Telesc\u00e9pio",
+            "grade": "V1",
+            "description": "Inicio no agarrao da fenda sem utilizar os p\u00e9s no Jorge. Toca por agarr\u00e9es virando reto.",
+            "page_number": 109,
+            "block": "Planetdrio",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Estrelinha",
+            "grade": "V2",
+            "description": "Saida igual a do Telescopio (2) virando no Planetario (1).",
+            "page_number": 109,
+            "block": "Planetdrio",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "A Estrela Cadente",
+            "grade": "V4",
+            "description": "Saida igual a do Telesc\u00f3pio (2), esta linha Unica percorre o boulder Planetario (1) ao contrario e vira no Planetinha (5).",
+            "page_number": 109,
+            "block": "Planetdrio",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Planetinha",
+            "grade": "V2",
+            "description": "Inicio igual ao do Planetario (1) mas toca reto na saida para a direita.",
+            "page_number": 109,
+            "block": "Planetdrio",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 6,
+            "name": "Sat\u00e9lite",
+            "grade": "V3",
+            "description": "Saida em dois regletes dbvios com os p\u00e9s acima da cabega. Vira reto.",
+            "page_number": 109,
+            "block": "Planetdrio",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

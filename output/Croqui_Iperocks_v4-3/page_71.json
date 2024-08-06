@@ -1,0 +1,41 @@
+{
+    "page_message": "SDS com m@os em regletes bons, dbvios e Inicio no Cosmos (8), escala para a direita, Inicio no Cubismo (7), escala para a Essa linha faz 0 mesmo inicio do Goya (1), escala reto por agarras invertidas, virada por baixo, e termina igual ao direita e termina no Cosmos (8). desescalando o Manabu Mabe (3) e virando levemente para a direita. Manabu Mabe (3). no Pollock (9).",
+    "routes": [
+        {
+            "id_number": 8,
+            "name": "Cosmos",
+            "grade": "V5",
+            "description": "",
+            "page_number": 71,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 10,
+            "name": "Manabu C\u00e9smico",
+            "grade": "V6",
+            "description": "",
+            "page_number": 71,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 12,
+            "name": "Guernica",
+            "grade": "V7",
+            "description": "",
+            "page_number": 71,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 14,
+            "name": "Contra Cultura",
+            "grade": "V8",
+            "description": "",
+            "page_number": 71,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

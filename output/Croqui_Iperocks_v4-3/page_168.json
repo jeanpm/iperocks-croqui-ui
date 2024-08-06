@@ -1,0 +1,32 @@
+{
+    "page_message": "SETOR CAPITAO JACK\nIPEROCKS\nBOULDERING\nBloco Xadrez",
+    "routes": [
+        {
+            "id_number": 5,
+            "name": "Xadrez as cegas",
+            "grade": "V7/8",
+            "description": "Saida agachada com as maos em regletes, toca diagonalmente para a esquerda por lances em regletes e abaulados e vira reto, a direita do Rainha (6).",
+            "page_number": 168,
+            "block": "Xadrez",
+            "sector": "Setor Capitao Jack"
+        },
+        {
+            "id_number": 6,
+            "name": "Rainha",
+            "grade": "V6",
+            "description": "Mesmo come\u00e7o que 0 Torre (2), por\u00e9m, ao chegar em lance de ombro, toca para a direita da geladeira e vira por regletes machuquentos.",
+            "page_number": 168,
+            "block": "Xadrez",
+            "sector": "Setor Capitao Jack"
+        },
+        {
+            "id_number": 8,
+            "name": "Roque",
+            "grade": "V8",
+            "description": "Inicio igual ao do Xadrez as cegas (5), por\u00e9m, ao chegar em regletes na direita da geladeira, vai para a esquerda e finaliza com o Torre (2).",
+            "page_number": 168,
+            "block": "Xadrez",
+            "sector": "Setor Capitao Jack"
+        }
+    ]
+}

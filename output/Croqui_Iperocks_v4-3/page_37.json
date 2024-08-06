@@ -1,0 +1,32 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 15,
+            "name": "Desilusdo de Vodka",
+            "grade": "V13",
+            "description": "Mesma saida do Delirio de Vodka (2), por\u00e9m ao chegar no Mesma saida do Delirio (4), por\u00e9m toca para o Ilusao (9).",
+            "page_number": 37,
+            "block": "Miragem",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 16,
+            "name": "Desilus\u00e9o",
+            "grade": "V10",
+            "description": "Mesma linha do Odalisca (12), por\u00e9m nao pode usar o outro Delirio (4), faz um move duro em direcao ao Ilusao (9) e bloco.",
+            "page_number": 37,
+            "block": "Miragem",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 17,
+            "name": "Cle\u00e9patra",
+            "grade": "V7",
+            "description": "termina pelo mesmo.",
+            "page_number": 37,
+            "block": "Miragem",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

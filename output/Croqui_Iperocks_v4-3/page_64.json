@@ -1,0 +1,50 @@
+{
+    "page_message": "Evite escalar este bloco em \u00e9pocas de chuva. Alto risco de quebras de agarra.",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Gioconda",
+            "grade": "V3",
+            "description": "Comega na extrema esquerda do bloco, SDS com mao esquerda em pinca/batente e mao direita em gavetinha mais aberta, toca para direita e finaliza em abaulados.",
+            "page_number": 64,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Caravaggio",
+            "grade": "V6",
+            "description": "Saida com as mos juntas em batente de lado, domina micro reglete e se joga para a borda.",
+            "page_number": 64,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Monalisa",
+            "grade": "V12",
+            "description": "Mesma saida do Caravaggio (2). Talvez um dos boulders mais ic\u00e9nicos de Iperocks, essa linha \u00e9 pura e desafiadora, tocando por batente magnifico que se assemelha ao sorriso da Monalisa.",
+            "page_number": 64,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "Da Vinci",
+            "grade": "V13",
+            "description": "Saindo debaixo do bloco em batente horizontal e tocando para o Monalisa (3).",
+            "page_number": 64,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Caravaggio SDS",
+            "grade": "V8",
+            "description": "Saindo no mesmo batente do Da Vinci (4), faz move longo at\u00e9 chegar na agarra de saida do Caravaggio (2).",
+            "page_number": 64,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

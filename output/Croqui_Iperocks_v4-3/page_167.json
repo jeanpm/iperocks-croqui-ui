@@ -1,0 +1,41 @@
+{
+    "page_message": "SETOR CAPITAO JACK\nIPEROCKS\nBOULDERING",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "PeGo",
+            "grade": "V2",
+            "description": "Este boulder comega sentado, em agarrao do lado da arvore e toca levemente para a direita por agarras boas. Vira reto.",
+            "page_number": 167,
+            "block": "Xadrez",
+            "sector": "Setor Capitao Jack"
+        },
+        {
+            "id_number": 2,
+            "name": "Torre",
+            "grade": "V6",
+            "description": "Boulder que comega na mesma saida que o Peao (1) por\u00e9m, toca para direita por regletes afiados. Vira a esquerda da geladeira.",
+            "page_number": 167,
+            "block": "Xadrez",
+            "sector": "Setor Capitao Jack"
+        },
+        {
+            "id_number": 3,
+            "name": "Cavalo",
+            "grade": "V7",
+            "description": "Faz o mesmo comeco que o Torre (6) por\u00e9m, ao chegar em lance de ombro, toca pelo meio da geladeira em lances de compress\u20aco. Vira na parte mais alta do bloco, no meio da geladeira.",
+            "page_number": 167,
+            "block": "Xadrez",
+            "sector": "Setor Capitao Jack"
+        },
+        {
+            "id_number": 4,
+            "name": "Bispo",
+            "grade": "V7",
+            "description": "Comego igual ao Xadrez as cegas (5) por\u00e9m, antes da virada reta, desvia para a esquerda e termina como o Cavalo (3).",
+            "page_number": 167,
+            "block": "Xadrez",
+            "sector": "Setor Capitao Jack"
+        }
+    ]
+}

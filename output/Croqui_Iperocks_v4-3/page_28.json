@@ -1,0 +1,68 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Cerver\u00e9",
+            "grade": "V1",
+            "description": "Linha que sai SDS em batente, seguindo reto pelos buracos e virando em pequeno abaulado.",
+            "page_number": 28,
+            "block": "Cerver\u00e9",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Ubers",
+            "grade": "V1",
+            "description": "Saindo em p\u00e9 entre o Cerver\u00e9 (1) e o Mal Criado (3). Segue para a esquerda em fenda e vira no Cerver\u00e9 (1).",
+            "page_number": 28,
+            "block": "Cerver\u00e9",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Mal Criado",
+            "grade": "V4",
+            "description": "Saida SDS, essa classica linha segue por abaulado perfeito, a la Fontainebleu, e vira pela direita do bloco.",
+            "page_number": 28,
+            "block": "Cerver\u00e9",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "A Dona Zoraide",
+            "grade": "V4",
+            "description": "Saida na extremidade esquerda do bloco, do lado de la da cerca. Esta linha faz a travessia de todas as linhas. Virada pelo Mal Criado (3).",
+            "page_number": 28,
+            "block": "Cerver\u00e9",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Crucifixo de Cerver\u00e9",
+            "grade": "V4",
+            "description": "Mesma saida do Mal Criado (3), vira no Cerver\u00e9 (1).",
+            "page_number": 28,
+            "block": "Cerver\u00e9",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 6,
+            "name": "Sem Educagdo",
+            "grade": "V5",
+            "description": "Mesma saida do Mal Criado (3), e escala para a esquerda, virando no Dona Zoraide (4) a esquerda da cerca.",
+            "page_number": 28,
+            "block": "Cerver\u00e9",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 7,
+            "name": "Severino",
+            "grade": "V3",
+            "description": "Mesma saida do Cerver\u00e9 (1) e toca para a direita. Aborta a travessia no crucifixo e faz a virada.",
+            "page_number": 28,
+            "block": "Cerver\u00e9",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

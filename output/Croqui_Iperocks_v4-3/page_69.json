@@ -1,0 +1,14 @@
+{
+    "page_message": "BOULDERING",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Manabu Mabe",
+            "grade": "V4/5",
+            "description": "Climb starting from the left side, using the ledge to traverse.",
+            "page_number": 69,
+            "block": "C",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

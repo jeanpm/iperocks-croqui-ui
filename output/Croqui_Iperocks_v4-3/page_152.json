@@ -1,0 +1,50 @@
+{
+    "page_message": "Bloco Cave",
+    "routes": [
+        {
+            "id_number": 9,
+            "name": "Pescador de Ilus\u00f5es",
+            "grade": "V3",
+            "description": "Saida em dois regletes pequenos e 0 p\u00e9 entalado no buraco de ponta cabega.",
+            "page_number": 152,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 10,
+            "name": "Salto",
+            "grade": "V2",
+            "description": "Saida pulando em burac\u20aco e toca reto.",
+            "page_number": 152,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 11,
+            "name": "Darwin",
+            "grade": "V5",
+            "description": "Saida agachado, em agarrao lateral, toca para a esquerda por lances longos em boas agarras. Atengao a pedra abaixo.",
+            "page_number": 152,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 12,
+            "name": "Salto Evolutivo",
+            "grade": "V5",
+            "description": "Mesma Saida do Darwin (11), e segue para a direita no Salto (10).",
+            "page_number": 152,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 13,
+            "name": "Night Crawler",
+            "grade": "V13",
+            "description": "Saida dentro da cave, em buracao, toca pelo teto por agarras pequenas e termina como o Pescador de Ilusdes (9).",
+            "page_number": 152,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        }
+    ]
+}

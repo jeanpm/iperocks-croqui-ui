@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Caixa Baixa",
+    "routes": [
+        {
+            "id_number": 11,
+            "name": "Falange Vermelha",
+            "grade": "V7/8",
+            "description": "Saida com as m\u20acaos juntas em reglete batente na horizontal, fazendo movimento explosivo e concentrado e finalizando em borda abaulada.",
+            "page_number": 99,
+            "block": "Caixa Baixa",
+            "sector": "SETOR VALE DOS LiRIOS"
+        },
+        {
+            "id_number": 12,
+            "name": "A Queima Roupa",
+            "grade": "V4",
+            "description": "Saida com mao esquerda em regletinho pequeno e mao direita em reglete pocket bom, fazendo movimentos para pegar os monodedos classicos.",
+            "page_number": 99,
+            "block": "Caixa Baixa",
+            "sector": "SETOR VALE DOS LiRIOS"
+        },
+        {
+            "id_number": 13,
+            "name": "Mundo Cruel",
+            "grade": "V4",
+            "description": "Saida dificil, com mao esquerda em micro reglete e mao direita em monodedos. O boulder toca reto dando tapa na borda abaulada.",
+            "page_number": 99,
+            "block": "Caixa Baixa",
+            "sector": "SETOR VALE DOS LiRIOS"
+        }
+    ]
+}

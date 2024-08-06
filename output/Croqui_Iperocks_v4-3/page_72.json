@@ -1,0 +1,41 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 9,
+            "name": "Pollock",
+            "grade": "V7",
+            "description": "Mesma saida do Manabu Mabe (3), fazendo travessia a esquerda, passando pela saida do Cosmos (8) e virando no Cubismo (7).",
+            "page_number": 72,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 11,
+            "name": "Monet",
+            "grade": "V5",
+            "description": "Mesma saida do Manabu Mabe (3), escalando para a direita e finalizando na extremidade do bloco, no Goya (1).",
+            "page_number": 72,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 13,
+            "name": "Contradigdo",
+            "grade": "V5",
+            "description": "Essa linha faz o mesmo inicio do Goya (1), desescalando o Manabu Mabe (3) e virando no Klint (4).",
+            "page_number": 72,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 15,
+            "name": "Cubo Magico",
+            "grade": "V8",
+            "description": "Inicia no Cubismo (7), e escala para a direita, com uma diversidade linda de movimentos at\u00e9 virar no Manabu Mabe (3).",
+            "page_number": 72,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

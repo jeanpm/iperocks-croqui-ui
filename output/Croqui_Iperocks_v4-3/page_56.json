@@ -1,0 +1,50 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Purple Haze",
+            "grade": "V5",
+            "description": "Inicio SDS em duas agarras boas e evidentes num buraco. Segue reto no bloco, em lances esticados com uma virada boa.",
+            "page_number": 56,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Tabaco",
+            "grade": "V4",
+            "description": "Saida SDS em um batente pr\u00e9ximo a um buraco. Segue em agarras pequenas e vira reto no bloco.",
+            "page_number": 56,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Prensadinho",
+            "grade": "V2",
+            "description": "Saida SDS em boas agarras, basta escalar pela aresta e fazer facil dominio.",
+            "page_number": 56,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "Nicotina",
+            "grade": "V3",
+            "description": "Mesma saida do Tabaco (2) e segue para a direita em posicionamento classico, at\u00e9 dominio igual ao Prensadinho (3).",
+            "page_number": 56,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Nicotina Haze",
+            "grade": "V4",
+            "description": "Linha se inicia no Purple Haze (1) e segue a travessia at\u00e9 se encontrar no boulder Prensadinho (3).",
+            "page_number": 56,
+            "block": "Coffee Shop",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

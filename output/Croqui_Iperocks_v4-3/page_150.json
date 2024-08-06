@@ -1,0 +1,59 @@
+{
+    "page_message": "SETOR CAVE",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Galapagos",
+            "grade": "V8",
+            "description": "Inicio em batente vertical, segue para a esquerda por lances dinamicos em abaulados. SDS \u20ac 0 Estreito de Magalhaes que antes de entrar no Galapagos faz movimentagao exigente.",
+            "page_number": 150,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 2,
+            "name": "Bact\u00e9ria",
+            "grade": "V3",
+            "description": "Saindo com mao esquerda em reglete potente e mao direita em pinga. Segue para a direita e vira como o Galapagos (1).",
+            "page_number": 150,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 3,
+            "name": "Germe",
+            "grade": "V3",
+            "description": "Mesma saida do Bact\u00e9ria (3) e vira como 0 Pescador de Ilusdes (9).",
+            "page_number": 150,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 4,
+            "name": "Micr\u00e9bio",
+            "grade": "V3",
+            "description": "Mesma saida do Bact\u00e9ria (3) e vira como o Salto (10).",
+            "page_number": 150,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 5,
+            "name": "Havaianas de Pau",
+            "grade": "V7",
+            "description": "Mesma saida que 0 Galapagos (1) mas, ao chegar no reglete tridedo toca para a direita por regletinhos. SDS 6 a mesma coisa mas com a mesma saida que o Estreito de Magalhaes (2).",
+            "page_number": 150,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        },
+        {
+            "id_number": 6,
+            "name": "Estreito de Bering",
+            "grade": "V8",
+            "description": "Mesma saida que 0 Galapagos (1) mas, ao chegar no reglete tridedo toca para a direita por regletinhos.",
+            "page_number": 150,
+            "block": "Cave",
+            "sector": "Setor Cave"
+        }
+    ]
+}

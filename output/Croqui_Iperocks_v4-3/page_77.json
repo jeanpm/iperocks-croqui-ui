@@ -1,0 +1,59 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 32,
+            "name": "Salvador Dali",
+            "grade": "V6",
+            "description": "Comega com as maos juntas em agarra mais baixa e boa na horizontal, finalizando reto.",
+            "page_number": 77,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 33,
+            "name": "Gaudi",
+            "grade": "V5",
+            "description": "Inicio igual o Salvador Dali (27), mas escala para esquerda, dominando o buraco de direita e virando para a direita em lance duro de dominada em reglete.",
+            "page_number": 77,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 34,
+            "name": "IntervengGo Urbana",
+            "grade": "V7",
+            "description": "Mesmo inicio do Gaudi (28), por\u00e9m ao dominar bom reglete no meio do bloco, toca para a direita fazendo move para buraco perfeito,e escala o Salvador Dali (27).",
+            "page_number": 77,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 35,
+            "name": "Van Gogh",
+            "grade": "V6/7",
+            "description": "Mesmo inicio do Gaudi (28), por\u00e9m ao dominar bom reglete no meio do bloco, a brincadeira \u00e9 um dinamico direto para uma boa agarra no final do bloco. Nao vale usar a orelha da esquerda.",
+            "page_number": 77,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 36,
+            "name": "Tarcila do Amaral",
+            "grade": "V4",
+            "description": "Essa linha tem seu mesmo inicio no Gaudi (28), por\u00e9m termina na extrema esquerda do bloco, em otimos buracos.",
+            "page_number": 77,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 37,
+            "name": "Abapuru",
+            "grade": "V1",
+            "description": "Saida em boas agarras, segue reto e vira como 0 Tarcila (36)",
+            "page_number": 77,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

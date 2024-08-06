@@ -1,0 +1,32 @@
+{
+    "page_message": "Evite escalar este bloco em \u00e9pocas de chuva. Alto risco de quebras de agarra.",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Libert\u00e9",
+            "grade": "V3",
+            "description": "Saida SDS abracgando o bloco pequeno, escala para a esquerda do bloco utilizando boas agarras em compressao com a proa.",
+            "page_number": 16,
+            "block": "MSP",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Go People",
+            "grade": "V4",
+            "description": "Mesmo inicio do Casulo (4), seguindo para a direita e abortando para a esquerda em move exigente.",
+            "page_number": 16,
+            "block": "MSP",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Jararaca",
+            "grade": "V3",
+            "description": "Inicia abragado no bloco e segue reto em agarras pequenas, com um final dinamico para um agarrao.",
+            "page_number": 16,
+            "block": "MSP",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

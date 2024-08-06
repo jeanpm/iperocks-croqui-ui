@@ -1,0 +1,50 @@
+{
+    "page_message": "Evite escalar este bloco em \u00e9pocas de chuva. Alto risco de quebras de agarra.",
+    "routes": [
+        {
+            "id_number": 16,
+            "name": "Surreal",
+            "grade": "V8",
+            "description": "Saida em p\u00e9, com mao direita e esquerda em agarras de lado na vertical, escalando reto pela proa alta, negativa e maravilhosa.",
+            "page_number": 74,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 17,
+            "name": "Surrealismo",
+            "grade": "V9",
+            "description": "Comega agachado, com m@o direita em reglete na horizontal e mao esquerda em agarra batente escorrida, fazendo alguns movimentos e entrando no Surreal (16).",
+            "page_number": 74,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 18,
+            "name": "Realismo",
+            "grade": "V5",
+            "description": "Inicio no Surreal (16), por\u00e9m escala para a direita, fazendo moves plasticos em dtimas agarras at\u00e9 virar no Cubismo (7).",
+            "page_number": 74,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 19,
+            "name": "Hiper-Realismo",
+            "grade": "V7",
+            "description": "Esta linha tem seu inicio no Surrealismo (17). Escala a mesma linha at\u00e9 chegar no inicio do Realismo (18). Finalizando igualmente no Cubismo (7).",
+            "page_number": 74,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 20,
+            "name": "Pablo Picasso",
+            "grade": "V8/9",
+            "description": "Linha que se inicia no bicao do Cubismo (7), faz belos moves para a esquerda do bloco e entra no Surreal (16).",
+            "page_number": 74,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

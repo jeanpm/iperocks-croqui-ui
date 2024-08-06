@@ -1,0 +1,59 @@
+{
+    "page_message": "",
+    "routes": [
+        {
+            "id_number": 21,
+            "name": "P\u00e9s Modernismo",
+            "grade": "V9/10",
+            "description": "Inicio nas mesmas agarras do Salvador Dali (27), faz toda a travessia em pequenos regletes para a direita, at\u00e9 finalizar no Cubismo (7).",
+            "page_number": 75,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 22,
+            "name": "Pensador",
+            "grade": "V7/8",
+            "description": "Saida em p\u00e9 em dois regletes bons. Inicialmente utiliza as mesmas agarras do Surreal (16), por\u00e9m toca para a face esquerda do Bloco.",
+            "page_number": 75,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 23,
+            "name": "Rodin",
+            "grade": "V9/10",
+            "description": "Mesma saida do Surrealismo (17) e entra no Pensador (22).",
+            "page_number": 75,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 24,
+            "name": "Edith Piaf",
+            "grade": "V9",
+            "description": "Mesma saida do Salvador Dali (27) e entra no Pensador (22).",
+            "page_number": 75,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 25,
+            "name": "Cubinho",
+            "grade": "V3",
+            "description": "Mesma saida do Cubismo (7), mas nao vai para 0 bicao, acessa direto 0 batente grande.",
+            "page_number": 75,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 26,
+            "name": "Louvre",
+            "grade": "V10/11",
+            "description": "Linha que atravessa quase todo o bloco das Artes. Saida no Abapuru (37), finalizando na outra face no Manabu Mabe (3).",
+            "page_number": 75,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

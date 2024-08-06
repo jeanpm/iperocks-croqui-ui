@@ -1,0 +1,41 @@
+{
+    "page_message": "Bloco Artes",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Goya",
+            "grade": "V3",
+            "description": "Primeira linha logo na direita, quando chega no bloco, comega perto da arvore com as maos juntas em agarra abaulada/forma de disco e escala para direita.",
+            "page_number": 68,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Manabu Mabe",
+            "grade": "V4/5",
+            "description": "SDS com as duas maos juntas em pinga invertida, escalando para direita e finalizando nos abaulados do Aquarela (2).",
+            "page_number": 68,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Mondrian",
+            "grade": "V5",
+            "description": "Comega SDS com mos em regletes bons. Escala para a direita e finaliza igual ao Klint (4).",
+            "page_number": 68,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 4,
+            "name": "Cubismo",
+            "grade": "V4",
+            "description": "Comego em agarr\u00e9es a direita da saida do Surreal (16), essa linha classica toca para a direita at\u00e9 bicao e reglete abaulado, finalizando reto por virada em abaulados exigentes.",
+            "page_number": 68,
+            "block": "Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

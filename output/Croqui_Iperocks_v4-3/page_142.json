@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Bufalo\n\nIPEROCKS\n\nDOULDERING\n\nSaida pulando em agarra da borda do bloco, Saida em 2 regletes pequenos, sem usar 0 Agarras pequenas e segue reto no bloco. escala para a direita e faz virada t\u00e9cnica e bloco ao lado. exigente.",
+    "routes": [
+        {
+            "id_number": 12,
+            "name": "Alistamento",
+            "grade": "V1",
+            "description": "Saida pulando em agarra da borda do bloco, Saida em 2 regletes pequenos, sem usar 0 Agarras pequenas e segue reto no bloco.",
+            "page_number": 142,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 13,
+            "name": "C4",
+            "grade": "V1",
+            "description": "escala para a direita e faz virada t\u00e9cnica e bloco ao lado.",
+            "page_number": 142,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 14,
+            "name": "Dinamite",
+            "grade": "V1",
+            "description": "exigente.",
+            "page_number": 142,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        }
+    ]
+}

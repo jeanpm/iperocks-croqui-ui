@@ -1,0 +1,32 @@
+{
+    "page_message": "SETOR CAPITAO JACK\nIPEROCKS\nDOULDERING\nCuidado com a pedra atras.",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Moreia",
+            "grade": "V3",
+            "description": "Saida igual ao Dead Fish (7) mas ao chegar no abaulado no veio, vira para a direita.",
+            "page_number": 166,
+            "block": "Xadrez",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Dead Fish",
+            "grade": "V7",
+            "description": "Boulder classico, esta linha comeca agachada com maos em reglete muito afiado, toca pelo olho de peixe, faz lance esticado para o abaulado no veio e vai para a esquerda por lances complexos em regletes machuquentos. Vira reto.",
+            "page_number": 166,
+            "block": "Xadrez",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Contra Todos",
+            "grade": "V10",
+            "description": "Este boulder comega agachado com mao esquerda em reglete atras da arvore e mao direita em reglete aberto. Toca reto por lances complexos e esticados em regletes.",
+            "page_number": 166,
+            "block": "Xadrez",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

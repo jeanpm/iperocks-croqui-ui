@@ -1,0 +1,32 @@
+{
+    "page_message": "Bloco Bufalo",
+    "routes": [
+        {
+            "id_number": 7,
+            "name": "Quartel",
+            "grade": "V5",
+            "description": "Mesma saida do Capela (1), essa travessia vira no Tio Mesma saida do Capela (1), essa travessia vira no Saida em agarra invertida, faz os primeiros lances reto",
+            "page_number": 132,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 8,
+            "name": "Quartel General",
+            "grade": "V6",
+            "description": "Escudeiro Fiel (6). depois toca para a direita at\u00e9 chegar nas agarras do Porco",
+            "page_number": 132,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        },
+        {
+            "id_number": 9,
+            "name": "Porco An\u00e9nimo",
+            "grade": "V9",
+            "description": "Capitalista (3), finalizando no mesmo.",
+            "page_number": 132,
+            "block": "Bufalo",
+            "sector": "Setor Bufalo"
+        }
+    ]
+}

@@ -1,0 +1,41 @@
+{
+    "page_message": "Evite escalar este bloco em \u00e9pocas de chuva. Alto risco de quebras de agarra.",
+    "routes": [
+        {
+            "id_number": 6,
+            "name": "Portinari",
+            "grade": "V4",
+            "description": "Saida a direita da arvore, comegando com mao esquerda em batente e mao direita em pequeno reglete, finalizando na mesma virada do Vida nos Bosques (6).",
+            "page_number": 66,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 7,
+            "name": "Vida nos Bosques",
+            "grade": "V4",
+            "description": "Classico e primeira linha aberta no bloco. Comega na extrema direita, em agarrdes bem prd\u00e9ximos da arvore e escala por uma linda travessia para a esquerda.",
+            "page_number": 66,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 8,
+            "name": "Frida Khalo",
+            "grade": "V3",
+            "description": "Inicia com as maos juntas em agarrao e escala reto, fazendo uma virada t\u00e9cnica.",
+            "page_number": 66,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 9,
+            "name": "Diego Rivera",
+            "grade": "V4",
+            "description": "Mesma saida do Vida nos Bosques (6), finalizando a escalada reto.",
+            "page_number": 66,
+            "block": "Monalisa/Artes",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

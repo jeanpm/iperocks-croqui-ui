@@ -1,0 +1,50 @@
+{
+    "page_message": "Bloco Tricoteiros",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Tricoteiros",
+            "grade": "V9",
+            "description": "Linha maravilhosa, saindo com a mao esquerda em buraco perfeito e mao direita em batente, voc\u00e9 escala reto pelo boulder negativo.",
+            "page_number": 48,
+            "block": "Tricoteiros",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Motherfucker Tricoteiros",
+            "grade": "V10",
+            "description": "Boulder que sai bem ao fundo da cave em agarras invertidas, faz alguns movimentos esticados e entra no Tricoteiros (1).",
+            "page_number": 48,
+            "block": "Tricoteiros",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Bordel",
+            "grade": "V11",
+            "description": "Saida do Boulder em dois buracos grandes invertidos, tocando reto por min\u00fasculos regletes at\u00e9 agarrao na direita.",
+            "page_number": 48,
+            "block": "Tricoteiros",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 5,
+            "name": "Like a Virgin",
+            "grade": "V7",
+            "description": "Linha que comeza com mao esquerda em reglete baixo, pr\u00f3ximo de batente escorrido e mao direita em monodedo perfeito que deu origem ao nome do boulder.",
+            "page_number": 48,
+            "block": "Tricoteiros",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 6,
+            "name": "Bahamas",
+            "grade": "V11/12",
+            "description": "Linha que sai junto ao Tricoteiros (1), segue para a direita em 48 pequenas pegas.",
+            "page_number": 48,
+            "block": "Tricoteiros",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

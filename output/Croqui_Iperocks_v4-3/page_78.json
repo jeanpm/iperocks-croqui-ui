@@ -1,0 +1,32 @@
+{
+    "page_message": "SETOR SEU LUIZ",
+    "routes": [
+        {
+            "id_number": 1,
+            "name": "Boia Fria",
+            "grade": "V3",
+            "description": "Esta linha esta localizada na proa do bloco e sai SDS com mao esquerda em invertida perfeita e mao direita em pinga. Sd seguir comprimindo a proa em boas agarras at\u00e9 facil dominio.",
+            "page_number": 78,
+            "block": "Boia Fria",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 2,
+            "name": "Retirante",
+            "grade": "V1",
+            "description": "Linha que sai na extrema direita do bloco com saida apertada, segue em boas agarras para a esquerda e faz dominio nos abaulados.",
+            "page_number": 78,
+            "block": "Boia Fria",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 3,
+            "name": "Boiadeiros",
+            "grade": "V4/5",
+            "description": "Saida no Retirante (2) e segue escalando para a esquerda at\u00e9 encontrar o Boia Fria (1).",
+            "page_number": 78,
+            "block": "Boia Fria",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}

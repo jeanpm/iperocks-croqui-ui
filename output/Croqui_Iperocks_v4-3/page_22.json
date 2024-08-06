@@ -1,0 +1,32 @@
+{
+    "page_message": "Evite escalar este bloco em \u00e9pocas de chuva. Alto risco de quebras de agarra.",
+    "routes": [
+        {
+            "id_number": 15,
+            "name": "Ordem de Despejo",
+            "grade": "V9",
+            "description": "Linha que sai no Gentileza (16) e toca para a esquerda em abaulados perfeitos at\u00e9 entrar no Invasao de Domicilio (13).",
+            "page_number": 22,
+            "block": "MSP",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 16,
+            "name": "Gentileza",
+            "grade": "V2",
+            "description": "Boulder que sai SDS em reglete de mao esquerda e outro reglete de mao direita. Depois deste pequeno problema, basta escalar a linha que esta cheia de otimas agarras. Linha batizada em homenagem a populagao da regiao.",
+            "page_number": 22,
+            "block": "MSP",
+            "sector": "Setor Seu Luiz"
+        },
+        {
+            "id_number": 17,
+            "name": "Simpatia",
+            "grade": "V3",
+            "description": "Boulder que sai em p\u00e9 no bloco da direita do Gentileza (16). Faz muv\u2019s em excelentes agarras em forma de sorriso, escala reto e faz virada delicada. Nao vale utilizar o diedro. Virada pode assustar, atencao.",
+            "page_number": 22,
+            "block": "MSP",
+            "sector": "Setor Seu Luiz"
+        }
+    ]
+}
